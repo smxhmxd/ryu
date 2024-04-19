@@ -2,16 +2,8 @@
 
 # ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.
 
-![ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.](/.github/images/img_main.png "ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.")
+![ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.](/github/images/img_main.png "ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/smxhmxd/ryu?icon=github&color=black&scale=1.01)](https://github.com/smxhmxd/ryu/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/smxhmxd/ryu/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/smxhmxd/ryu?icon=github&color=black&scale=1.01)](https://github.com/smxhmxd/ryu/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/smxhmxd/ryu?icon=github&color=black&scale=1.01)](https://github.com/smxhmxd/ryu/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/smxhmxd/ryu?icon=github&color=black&scale=1.01)](https://github.com/smxhmxd/ryu/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/smxhmxd/ryu?icon=github&color=black&scale=1.01)](https://github.com/smxhmxd/ryu/pulls "GitHub pull requests")
-[![Railway status](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](https://discord-clone-production-e781.up.railway.app/ "Railway status")
 
 <!-- Table of Contents -->
 <details>
@@ -29,8 +21,6 @@
 - [Stats](#wrench-stats)
 - [Contribute](#raised_hands-contribute)
 - [Acknowledgements](#gem-acknowledgements)
-- [Buy Me a Coffee](#coffee-buy-me-a-coffee)
-- [Follow Me](#rocket-follow-me)
 - [Learn More](#books-learn-more)
 - [Deploy on Railway](#page_with_curl-deploy-on-railway)
 - [Give A Star](#star-give-a-star)
@@ -241,11 +231,11 @@ NEXT_PUBLIC_LIVEKIT_URL=wss://discord-clone-xxxxxxxxxx.livekit.cloud
 
 ## :camera: Screenshots
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Modern UI/UX](/github/images/img1.png "Modern UI/UX")
 
-![Video Conferencing](/.github/images/img2.png "Video Conferencing")
+![Video Conferencing](/github/images/img2.png "Video Conferencing")
 
-![One-on-one Chat](/.github/images/img3.png "One-on-one Chat")
+![One-on-one Chat](/github/images/img3.png "One-on-one Chat")
 
 ## :gear: Tech Stack
 
