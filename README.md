@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-# ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.
+# Ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.
 
-![ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.](/github/images/img_main.png "ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.")
+![ryu - Real-time chat, voice, and community features in a modern, scalable Next.js 14-powered platform.](https://github.com/smxhmxd/ryu/blob/main/github/images/Screenshot%20(214).png)
 
 
 <!-- Table of Contents -->
@@ -231,19 +231,15 @@ NEXT_PUBLIC_LIVEKIT_URL=wss://discord-clone-xxxxxxxxxx.livekit.cloud
 
 ## :camera: Screenshots
 
-![Modern UI/UX](/github/images/img1.png "Modern UI/UX")
+![Modern UI/UX](https://github.com/smxhmxd/ryu/blob/main/github/images/Screenshot%20(208).png)
 
-![Video Conferencing](/github/images/img2.png "Video Conferencing")
+![Server Actions](https://github.com/smxhmxd/ryu/blob/main/github/images/Screenshot%20(203).png)
 
-![One-on-one Chat](/github/images/img3.png "One-on-one Chat")
+![Admin Functionality](https://github.com/smxhmxd/ryu/blob/main/github/images/Screenshot%20(209).png)
 
 ## :gear: Tech Stack
 
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel") [![Postgresql](https://skillicons.dev/icons?i=postgres "Postgresql")](https://www.postgresql.org/ "Postgresql")
-
-## :wrench: Stats
-
-[![Stats for ryu](/.github/images/stats.svg "Stats for ryu")](https://pagespeed.web.dev/analysis?url=https://discord-clone-production-e781.up.railway.app/ "Stats for ryu")
 
 ## :raised_hands: Contribute
 
@@ -353,16 +349,6 @@ For more detailed instructions or troubleshooting, refer to [Railway documentati
 ## :star: Give A Star
 
 You can also give this repository a star to show more people and they can use this repository.
-
-## :star2: Star History
-
-<a href="https://star-history.com/#smxhmxd/ryu&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=smxhmxd/ryu&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=smxhmxd/ryu&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=smxhmxd/ryu&type=Timeline" />
-</picture>
-</a>
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
